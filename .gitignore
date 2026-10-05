@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Wallet files contain PRIVATE KEYS - never commit them
+wallets/*.json
